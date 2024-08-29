@@ -10,7 +10,10 @@
 
 	"semanticColors": {
 		"HEADER_PRIMARY": ["#2780e6"],
-		"HEADER_SECONDARY": ["#1e63b3"]
+		"HEADER_SECONDARY": ["#1e63b3"],
+		"TEXT_NORMAL": ["rgb(220, 221, 222)"],
+		"TEXT_MUTED": ["rgb(114, 118, 125)"],
+		"TEXT_LINK": ["#2780e6"]
 	},
 
 	"plus": {
