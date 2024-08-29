@@ -29,8 +29,12 @@
 		"BACKGROUND_MOBILE_SECONDARY": ["rgba(0, 0, 0, 0.6)"],
 		"BACKGROUND_MESSAGE_HOVER": ["#1e63b3"],
 		"BACKGROUND_MODIFIER_HOVER": ["#1e63b3"],
-		"BACKGROUND_MODIFIER_ACTIVE": ["rgba(0, 0, 0, 0.6)"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#2780e6"],
 		"BACKGROUND_MODIFIER_SELECTED": ["#2780e6"],
 		"BACKGROUND_MODIFIER_ACCENT": ["#2780e6"]
 	}
+},
+
+"background": {
+	url: "https://images.alphacoders.com/136/thumb-1920-1362052.png"
 }
