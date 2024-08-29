@@ -13,7 +13,11 @@
 		"HEADER_SECONDARY": ["#1e63b3"],
 		"TEXT_NORMAL": ["rgb(220, 221, 222)"],
 		"TEXT_MUTED": ["rgb(114, 118, 125)"],
-		"TEXT_LINK": ["#2780e6"]
+		"TEXT_LINK": ["#2780e6"],
+		"INTERACTION_NORMAL": ["#2780e6"],
+		"INTERACTION_HOVER": ["#1e63b3"],
+		"INTERACTION_ACTIVE": ["#2780e6"],
+		"INTERACTION_MUTED": ["rgba(255, 255, 255, 0.1)"]
 	},
 
 	"plus": {
