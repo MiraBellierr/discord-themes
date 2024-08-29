@@ -17,21 +17,20 @@
 		"INTERACTION_NORMAL": ["#2780e6"],
 		"INTERACTION_HOVER": ["#1e63b3"],
 		"INTERACTION_ACTIVE": ["#2780e6"],
-		"INTERACTION_MUTED": ["rgba(255, 255, 255, 0.1)"]
-	},
-
-	"plus": {
-		"version": 0,
-		"customOverlays": true,
-		"icons": {
-			"ic_mic_neutral": "#102b47",
-			"ic_mic_muted_neutral": "#102b47",
-			"ic_soundboard": "#102b47",
-			"ic_soundboard_muted": "#102b47",
-			"ic_video": "#102b47",
-			"ic_video_disabled": "#102b47"
-		},
-		"iconpack": "rosiecord-plumpy"
-	},
-	"spec": 2
+		"INTERACTION_MUTED": ["rgba(255, 255, 255, 0.1)"],
+		"BACKGROUND-PRIMARY": ["rgba(0, 0, 0, 0.6)"],
+		"BACKGROUND_SECONDARY": ["rgba(0, 0, 0, 0.6)"],
+		"BACKGROUND_SECONDARY_ALT": ["rgba(0, 0, 0, 0.6)"],
+		"BACKGROUND_TERTIARY": ["rgba(0, 0, 0, 0.6)"],
+		"BACKGROUND_ACCENT": ["rgba(0, 0, 0, 0.6)"],
+		"BACKGROUND_FLOATING": ["rgba(0, 0, 0, 0.6)"],
+		"BACKGROUND_NESTED_FLOATING": ["rgba(0, 0, 0, 0.6)"],
+		"BACKGROUND_MOBILE_PRIMARY": ["rgba(0, 0, 0, 0.6)"],
+		"BACKGROUND_MOBILE_SECONDARY": ["rgba(0, 0, 0, 0.6)"],
+		"BACKGROUND_MESSAGE_HOVER": ["#1e63b3"],
+		"BACKGROUND_MODIFIER_HOVER": ["#1e63b3"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#2780e6"],
+		"BACKGROUND_MODIFIER_SELECTED": ["#2780e6"],
+		"BACKGROUND_MODIFIER_ACCENT": ["#2780e6"]
+	}
 }
